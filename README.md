@@ -3,8 +3,9 @@
   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28222fc5-2b57-45e8-9f3f-c1ce409b7042" />
     </p>
 
-
   <h1 align="center">ABOUT ME</h1>
+
+### Portfolio Bio
     
 Hi I'm **Alyannah Marie W. Ong**, and I am 19 years old. My favorite colors are pink and purple because they reflect my cheerful and creative persoality. I enjoy spending my free time editing videos and photos, crocheting, creating graphic designs, and making animations. These hobbies allow me to express my creativity, improve my skills and sell it online.
 
@@ -13,5 +14,23 @@ As a person, I consider myself kind, humble, generous, compassionate, and genuin
 My core skills include time management, creativity, teamwork, and collaboration. I enjoy working with others and learning new ideas while contributing my own talents. I am especially interested in content creation, event planning, and fashion and lifestyle because they inspire me to be innovative and expressive.
 
 I always strive to grow, improve, and make a positive impact on the people around me.
+
+### Branding Tagline
+***"Future Business Professional & Aspiring Corporate Leader"***
+
+### Branding Kit (First Project)
+***Files***
+
+
+
+***Reflection***
+
+
+### Visuals (Second Project)
+
+### Docs (Third Project)
+
+### Media (Fourth Project)
+
 
 # about me
