@@ -67,5 +67,3 @@ _Links:_
 
 ***Reflection***
 I chose to create a video about myself with an intro of animation because it is one of my passions and it allows me to showcase my creativity and editing skills. I also made a website prototype for my UGC portfolio as an affiliate, which can serve as a professional platform when collaborating with brands and potential clients. The design is minimalist yet visually engaging, with carefully placed design elements that reflect my personal editing style while capturing the attention of viewers.
-
-# about me
