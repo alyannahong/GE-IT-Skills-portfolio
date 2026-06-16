@@ -91,13 +91,7 @@ CONSTRAINTS:
 - Recommend practical solutions that can be implemented through local government units, barangays, tourism stakeholders, and environmental agencies.
 - Avoid references to international tourism trends, foreign destinations, global statistics, corporate jargon, or overly technical language.
 
-Output Format: Generate output in Markdown format using the following structure:
-### Situation Overview
-### Key Tourism Challenges
-### Recommended Actions
-provide exactly three actionable recommendations
-### Expected Community Benefits
-limit the response to 300 words ONLY"
+Output Format: Generate output in Markdown format using the following structure: ***'### Situation Overview'***, ***'### Key Tourism Challenges'***, ***'### Recommended Actions'*** provide exactly three actionable recommendations & ***'### Expected Community Benefits'*** limit the response to 300 words ONLY."
 
 
 #### 2. Prompt Battle Ledger
