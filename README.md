@@ -186,19 +186,28 @@ _Link:_ [Photo Output](https://github.com/alyannahong/GE-IT-Skills-portfolio/blo
 
 **Visualization C:**
 *(Embedded Heat Map Displaying Provincial Agricultural Value Chain Efficiency Indicators Across Mindanao Provinces, 2025)*
-https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/main/(OTHERS)%20VISUALIZATION/VISUALIZATION%20A.png
 
 _Link:_ [Photo Output](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/main/(OTHERS)%20VISUALIZATION/VISUALIZATION%20C.png)
 
 
-[Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
-
-
-
 #### 3. Human Analytical Narrative (The 'Why' Factor)
-"The data chart clearly shows an abrupt 18% decline in smallholder cacao output centered in late 2023. While the automated AI analysis summary attributed this drop purely to standard market volatility, human cross-referencing of local news archives reveals this period matched a severe regional El Niño weather event. 
+The visualization reveals a noticeable increase in post-harvest losses across several key agricultural commodities during 2023, particularly among rice, corn, and high-value crops such as cacao and banana. The automated AI-generated summary initially attributed these losses primarily to normal fluctuations in supply chain performance and market conditions. However, human verification and contextual analysis suggest a more complex explanation. Cross-referencing government reports, regional development studies, and local news coverage indicates that the period coincided with severe climate-related disruptions associated with the El Niño phenomenon. Reduced rainfall, prolonged dry conditions, and increased transportation challenges significantly affected harvesting schedules, storage conditions, and product quality. Furthermore, interviews and field reports from agricultural stakeholders highlighted persistent infrastructure gaps, including insufficient cold-storage facilities, limited farm-to-market road access, and inadequate post-harvest processing equipment. These factors contributed to increased spoilage rates and reduced marketable output, particularly among smallholder farmers. The findings suggest that agricultural value chain development in Mindanao requires more than production-focused interventions. Investments in climate-resilient storage systems, solar-powered drying facilities, improved logistics networks, and farmer training programs could substantially reduce post-harvest losses while increasing overall agricultural productivity. This analysis demonstrates the importance of human oversight in AI-assisted research. While the AI accurately identified statistical trends within the dataset, it failed to incorporate critical regional context and environmental factors that provide a more comprehensive explanation for the observed outcomes. Human validation therefore remains essential for producing reliable evidence to support policy recommendations and development planning.
 
-This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in smart solar-powered irrigation infrastruct
+
+#### Human Audit Note
+
+⚠️ **AI Limitation Identified**
+
+The AI-generated explanation was partially incomplete because it overlooked climate-related and infrastructure-related causes of post-harvest losses.
+
+#### Human Correction
+The final interpretation was revised through manual verification using:
+- Regional development literature
+- Local news reports
+- Agricultural sector assessments
+- Policy and planning documents
+
+This process improved the accuracy, contextual relevance, and policy usefulness of the final analysis.
 
 
 
