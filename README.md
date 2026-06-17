@@ -152,12 +152,36 @@ I prompted an AI discovery tool to summarize recent literature on agricultural v
 #### 2. Critical Reflection on Tool Limitations
 "While the AI platform consolidated five initial literature review process by identifying recurring themes across multiple policy and academic documents. However, the audit revealed recurring issues involving fabricated statistics, unsupported causal claims, and overstated policy outcomes. Human verification remained essential for confirming empirical accuracy, validating citations, and distinguishing projections from observed results. The exercise demonstrates that AI functions most effectively as a research assistant rather than an authoritative source. Academic and policy research requires systematic validation against primary documents before findings can be incorporated into scholarly outputs or policy recommendations."
 
-----
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+
+***AI for Research & Data Analysis (Visual Reports)***
+
+Markdown
+
+--
+### Data Analytics & Visual Report
+
+
+#### Dataset Focus: Agricultural Value Chain Development and Post-Harvest Loss Reduction in Mindanao (Mock CSV Analysis)
+
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The dataset contained multiple missing values in the **Post-Harvest Loss Rate (%)** column for the year 2023. Additionally, several records used inconsistent measurement units, including kilograms (kg), metric tons (MT), and percentage-based reporting formats across provinces.
+- **AI Cleaning Instruction:** `"Scan this dataset. Identify all null rows in the 'Post-Harvest Loss Rate' column and replace them with the median value for the corresponding crop category. Standardize all production measurements into Metric Tons (MT) and ensure percentage values are consistently formatted. Output the first five rows of the cleaned dataset."`
+- **Result:** The AI successfully standardized 135 records covering major agricultural commodities across Mindanao. Missing values were imputed using crop-specific medians, duplicate entries were removed, and all production figures were converted into a unified Metric Tons (MT) format, enabling reliable cross-provincial comparison.
+
+#### 2. Visualizations Generated
+*(Embedded High-Contrast Bar Chart showing Cacao Production vs. Climate Outlier Years from 2020-2025)*
+
+
+[Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
 
 
 
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+"The data chart clearly shows an abrupt 18% decline in smallholder cacao output centered in late 2023. While the automated AI analysis summary attributed this drop purely to standard market volatility, human cross-referencing of local news archives reveals this period matched a severe regional El Niño weather event. 
 
-
+This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in smart solar-powered irrigation infrastruct
 
 
 
