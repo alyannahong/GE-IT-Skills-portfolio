@@ -175,12 +175,20 @@ Markdown
 
 *(Embedded High-Contrast Bar Chart Showing Post-Harvest Loss Rates by Major Crop in Mindanao, 2020–2025)*
 
+_Link:_ [Photo Output](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/main/(OTHERS)%20VISUALIZATION/VISUALIZATION%20A.png)
+
 
 **Visualization B:**
 *(Embedded Comparative Trend Graph Illustrating Agricultural Production Volume and Estimated Post-Harvest Losses Across Major Mindanao Provinces)*
 
+_Link:_ [Photo Output](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/main/(OTHERS)%20VISUALIZATION/VISUALIZATION%20B.png)
+
+
 **Visualization C:**
 *(Embedded Heat Map Displaying Provincial Agricultural Value Chain Efficiency Indicators Across Mindanao Provinces, 2025)*
+https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/main/(OTHERS)%20VISUALIZATION/VISUALIZATION%20A.png
+
+_Link:_ [Photo Output](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/main/(OTHERS)%20VISUALIZATION/VISUALIZATION%20C.png)
 
 
 [Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
