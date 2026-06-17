@@ -171,7 +171,16 @@ Markdown
 - **Result:** The AI successfully standardized 135 records covering major agricultural commodities across Mindanao. Missing values were imputed using crop-specific medians, duplicate entries were removed, and all production figures were converted into a unified Metric Tons (MT) format, enabling reliable cross-provincial comparison.
 
 #### 2. Visualizations Generated
-*(Embedded High-Contrast Bar Chart showing Cacao Production vs. Climate Outlier Years from 2020-2025)*
+**Visualization A:**
+
+*(Embedded High-Contrast Bar Chart Showing Post-Harvest Loss Rates by Major Crop in Mindanao, 2020–2025)*
+
+
+**Visualization B:**
+*(Embedded Comparative Trend Graph Illustrating Agricultural Production Volume and Estimated Post-Harvest Losses Across Major Mindanao Provinces)*
+
+**Visualization C:**
+*(Embedded Heat Map Displaying Provincial Agricultural Value Chain Efficiency Indicators Across Mindanao Provinces, 2025)*
 
 
 [Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
