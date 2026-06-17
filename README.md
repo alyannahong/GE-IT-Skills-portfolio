@@ -27,6 +27,8 @@ _Link:_ [Branding Kit](https://github.com/alyannahong/GE-IT-Skills-portfolio/blo
 
 I chose this design style because it looks visually appealing and reflects my personal taste, especially since purple is my second favorite color. I incorporated a stargazing theme because I enjoy looking at the stars and find them inspiring. I kept the design as minimalist as possible to avoid making it look cluttered and to maintain a clean and professional appearance.
 
+----
+
 
 ### Visuals (Second Project)
 ***Files***
@@ -41,6 +43,8 @@ _Links:_
 ***Reflection***
 I chose to create promotional social graphics about my small business, where I sell flower bouquets and crochet products. The designs were based on my branding, incorporating my signature purple color palette to maintain consistency and brand recognition. I also used my actual business logo to create an authentic and professional representation of my business across all promotional materials.
 
+----
+
 
 ### Docs (Third Project)
 ***Files***
@@ -53,6 +57,8 @@ _Link:_
 
 ***Reflection***
 I chose this design because it presents the information in a clear and organized manner, making it easier for everyone to understand. The symbols and icons used throughout the project directly relate to the content and it helps reinforce the message visually. I kept the design simple yet visually appealing by maintaining a clean layout and well-structured organization.
+
+----
 
 
 ### Media (Fourth Project)
@@ -91,7 +97,7 @@ CONSTRAINTS:
 - Recommend practical solutions that can be implemented through local government units, barangays, tourism stakeholders, and environmental agencies.
 - Avoid references to international tourism trends, foreign destinations, global statistics, corporate jargon, or overly technical language.
 
-Output Format: Generate output in Markdown format using the following structure: ***'### Situation Overview'***, ***'### Key Tourism Challenges'***, ***'### Recommended Actions'*** provide exactly three actionable recommendations & ***'### Expected Community Benefits'*** limit the response to 300 words ONLY."
+Output Format: Generate output in Markdown format using the following structure: ***'### Situation Overview'***, ***'### Key Tourism Challenges'***, ***'### Recommended Actions'*** provide exactly three actionable recommendations & ***'### Expected Community Benefits'*** limit the response to 370 words ONLY."
 
 
 #### 2. Prompt Battle Ledger
@@ -106,6 +112,44 @@ Output Format: Generate output in Markdown format using the following structure:
 - **Engine Used:** OpenAI GPT-5.5 (ChatGPT)
 - **Visual Prompt:** "Create a Professional flat vector emblem logo, circular badge design, white background, centered composition, perfectly symmetrical balance. Outer circular ring split into Ocean Blue (#006994) on the left and Forest Green (#2E7D32) on the right, representing sustainability and environmental stewardship. Upper-left section: a stylized coconut tree with three coconuts, clean geometric palm leaves, standing on a Sand Beige (#D8C3A5) beach. Behind the tree is a simplified green island silhouette representing Samal Island. Upper-right section: a modern passenger ferry in flat vector style traveling across the Davao Gulf. Ferry rendered in Ocean Blue with white negative-space windows and details. Three minimalist flying birds above the ferry. Center section: three interconnected human figures arranged in a circular formation. One figure Ocean Blue (#006994), one Forest Green (#2E7D32), one Sand Beige (#D8C3A5). Figures holding hands to symbolize collaboration among tourism operators, fisherfolk associations, barangay councils, environmental organizations, and local communities. Middle section: three flowing Ocean Blue wave bands extending horizontally beneath the ferry and island, representing the Davao Gulf and sustainable maritime connectivity. Lower-left section: stylized coral reef and small fish icon in Ocean Blue, representing marine biodiversity and conservation. Lower-right section: simplified sea turtle and seagrass in Forest Green, representing environmental protection and coastal ecosystem management. Bottom section: curved Ocean Blue and Forest Green organic shapes merging into the circular border, symbolizing continuous partnership, sustainability, and responsible tourism development. Design style: clean SVG vector icon, flat design, geometric shapes, uniform stroke weight, crisp edges, strong negative space, minimal details, modern government and NGO visual identity, tourism communication system emblem, infographic-friendly, scalable logo design. Color palette only: Ocean Blue (#006994), Forest Green (#2E7D32), Sand Beige (#D8C3A5), White (#FFFFFF). Avoid: text, typography, labels, gradients, shadows, transparency effects, 3D rendering, photorealism, texture, glossy effects, corporate branding aesthetics, cluttered elements, excessive detail, realistic animals, realistic landscape painting. Output: high-resolution SVG-style vector logo, square 1:1 aspect ratio, suitable for LGU reports, sustainable tourism campaigns, websites, mobile applications, public information materials, and official government publications. Strictly follow the exact composition: coconut tree at upper left, ferry at upper right, three people at center, coral reef at lower left, sea turtle at lower right, enclosed within a circular ring. Preserve layout proportions and icon positions exactly."
 
+_Example AI Photo Output_
+
+
+----
 
 ***AI Study Tools & Platforms (Content Critique)***
+
+
+### Literature Verification Log
+
+#### Topic: Agricultural Value Chain Development and Post-Harvest Loss Reduction in Mindanao
+
+***Research Objective***
+To evaluate the reliability of AI-generated literature summaries concerning agricultural value chain development in Mindanao and to identify potential hallucinations, unsupported claims, citation errors, and biased interpretations through manual verification against primary and authoritative sources.
+
+##### 1. AI-Generated Summary Audit
+
+I prompted an AI discovery tool to summarize recent literature on agricultural value chains, post-harvest losses, and rural development challenges in Mindanao. Below is the verification tracking matrix:
+
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+| :--- | :--- | :--- | :--- |
+| "Mindanao loses nearly 50% of all harvested agricultural products before reaching markets." | Department of Agriculture reports; Philippine Statistics Authority publications | ❌ **Hallucination/Unsupported** | No authoritative source was found supporting a region-wide 50% loss rate. Loss rates vary significantly by commodity and location. |
+| "Cold-chain shortages are a recurring constraint affecting agricultural competitiveness in Mindanao." | Philippine Development Plan; DA value-chain studies |  ✅ **Verified** | Multiple government studies identify cold-storage limitations as a major supply-chain challenge. |
+| "Farm-to-market road development improves rural market integration and farmer incomes." | Department of Agriculture; NEDA infrastructure assessments. | ✅ **Verified** | Consistently supported across infrastructure and rural development literature. |
+| "Agricultural cooperatives increase bargaining power and improve access to markets."| Cooperative Development Authority studies; academic literature. | ✅ **Verified** | Broadly supported across multiple empirical studies. |
+| "Digital agriculture platforms are emerging as tools for market information and farm management." | DA digital agriculture initiatives; academic studies | ✅ **Verified**  | Supported, although adoption levels remain uneven. |
+
+
+#### 2. Critical Reflection on Tool Limitations
+"While the AI platform consolidated five initial literature review process by identifying recurring themes across multiple policy and academic documents. However, the audit revealed recurring issues involving fabricated statistics, unsupported causal claims, and overstated policy outcomes. Human verification remained essential for confirming empirical accuracy, validating citations, and distinguishing projections from observed results. The exercise demonstrates that AI functions most effectively as a research assistant rather than an authoritative source. Academic and policy research requires systematic validation against primary documents before findings can be incorporated into scholarly outputs or policy recommendations."
+
+----
+
+
+
+
+
+
+
 
