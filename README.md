@@ -70,8 +70,11 @@ _Links:_
 [Video](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/a44ce35dae1e50ed76e158fb19409bd6c2262188/media/ONG%20-%20VIDEO%20EDITING.docx)
 & [Website Prototype](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/a44ce35dae1e50ed76e158fb19409bd6c2262188/media/ONG%20-%20WEBSITE%20PROTOTYPE.docx)
 
-[GDRIVE Video](https://drive.google.com/file/d/1KG4HuIZ64deAVB1FQ0SzBOUmmbY3OPbD/view?usp=drive_link)
-[GDRIVE Website Prototype](https://canva.link/8j6spst57zwg774)
+
+_Gdrive Links:_
+[Video](https://drive.google.com/file/d/1KG4HuIZ64deAVB1FQ0SzBOUmmbY3OPbD/view?usp=drive_link)
+& [Website Prototype](https://canva.link/8j6spst57zwg774)
+
 
 ***Reflection***
 I chose to create a video about myself with an intro of animation because it is one of my passions and it allows me to showcase my creativity and editing skills. I also made a website prototype for my UGC portfolio as an affiliate, which can serve as a professional platform when collaborating with brands and potential clients. The design is minimalist yet visually engaging, with carefully placed design elements that reflect my personal editing style while capturing the attention of viewers.
