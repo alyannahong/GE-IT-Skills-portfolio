@@ -10,7 +10,7 @@
 Hi I'm **Alyannah Marie W. Ong**, a creative and detail-oriented designer with a passion for graphic design, animation and content creation. I enjoy transforming ideas into engaging and meaningful designs while continuously developing my skills through editing, crocheting, and various creative projects. My work reflects both my artistic vision and dedication to producing high-quality results. I am known for being hardworking, reliable, goal-oriented, and compassionate, with a strong commitment to professionalism and continuous growth. My core strengths include creativity, time management, teamwork, and collaboration, which allow me to work effectively both independently and with others. I am particularly interested in content creation, event planning, and fashion and lifestyle.
 
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 <!-- PRELIM PROJECTS -->
 ## PRELIM PROJECTS
 
@@ -27,8 +27,7 @@ _Link:_ [Branding Kit](https://github.com/alyannahong/GE-IT-Skills-portfolio/blo
 
 I chose this design style because it looks visually appealing and reflects my personal taste, especially since purple is my second favorite color. I incorporated a stargazing theme because I enjoy looking at the stars and find them inspiring. I kept the design as minimalist as possible to avoid making it look cluttered and to maintain a clean and professional appearance.
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 ### Visuals (Second Project)
 ***Files***
@@ -43,7 +42,7 @@ _Links:_
 ***Reflection***
 I chose to create promotional social graphics about my small business, where I sell flower bouquets and crochet products. The designs were based on my branding, incorporating my signature purple color palette to maintain consistency and brand recognition. I also used my actual business logo to create an authentic and professional representation of my business across all promotional materials.
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 
 ### Docs (Third Project)
@@ -58,7 +57,7 @@ _Link:_
 ***Reflection***
 I chose this design because it presents the information in a clear and organized manner, making it easier for everyone to understand. The symbols and icons used throughout the project directly relate to the content and it helps reinforce the message visually. I kept the design simple yet visually appealing by maintaining a clean layout and well-structured organization.
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 
 ### Media (Fourth Project)
@@ -79,7 +78,7 @@ _Gdrive Links:_
 ***Reflection***
 I chose to create a video about myself with an intro of animation because it is one of my passions and it allows me to showcase my creativity and editing skills. I also made a website prototype for my UGC portfolio as an affiliate, which can serve as a professional platform when collaborating with brands and potential clients. The design is minimalist yet visually engaging, with carefully placed design elements that reflect my personal editing style while capturing the attention of viewers.
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 <!-- PREFINAL PROJECTS -->
 ## PREFINAL PROJECTS
 
@@ -126,7 +125,7 @@ _Example AI Photo Output_
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/4d55f24c-1707-4de1-b492-7ede1ad98bbe" />
 
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 ***AI Study Tools & Platforms (Content Critique)***
 
@@ -157,7 +156,7 @@ I prompted an AI discovery tool to summarize recent literature on agricultural v
 #### 2. Critical Reflection on Tool Limitations
 "While the AI platform consolidated five initial literature review process by identifying recurring themes across multiple policy and academic documents. However, the audit revealed recurring issues involving fabricated statistics, unsupported causal claims, and overstated policy outcomes. Human verification remained essential for confirming empirical accuracy, validating citations, and distinguishing projections from observed results. The exercise demonstrates that AI functions most effectively as a research assistant rather than an authoritative source. Academic and policy research requires systematic validation against primary documents before findings can be incorporated into scholarly outputs or policy recommendations."
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 ***AI for Research & Data Analysis (Visual Reports)***
 
