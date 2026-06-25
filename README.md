@@ -89,6 +89,11 @@ I chose to create a video about myself with an intro of animation because it is 
 [Group Task Video](https://drive.google.com/file/d/1vvAQv3msx0x15C2jSfny52GMl5kbzy2e/view?usp=drive_link)
 
 
+***Reflection***
+As a group, we have decided to make like "A day in our life" vlog to showcase how we can use Google Calendar and the proper way in responding to an email. This is actually inspired to what I do which is I'm doing a vlog about my journey as an Accounting Student.
+
+
+
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 
