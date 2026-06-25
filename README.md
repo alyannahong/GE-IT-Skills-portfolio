@@ -83,8 +83,8 @@ I chose to create a video about myself with an intro of animation because it is 
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
-<!-- MIDTERM PROJECTS -->
-## MIDTERM PROJECTS
+<!-- MIDTERM PROJECT -->
+## MIDTERM PROJECT
 
 [Group Task Video](https://drive.google.com/file/d/1vvAQv3msx0x15C2jSfny52GMl5kbzy2e/view?usp=drive_link)
 
