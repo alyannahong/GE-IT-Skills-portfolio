@@ -73,7 +73,7 @@ _Links:_
 & [Website Prototype](https://github.com/alyannahong/GE-IT-Skills-portfolio/blob/a44ce35dae1e50ed76e158fb19409bd6c2262188/media/ONG%20-%20WEBSITE%20PROTOTYPE.docx)
 
 
-_Gdrive Links:_
+_Gdrive & Canva Links:_
 [Video](https://drive.google.com/file/d/1KG4HuIZ64deAVB1FQ0SzBOUmmbY3OPbD/view?usp=drive_link)
 & [Website Prototype](https://canva.link/8j6spst57zwg774)
 
