@@ -10,6 +10,9 @@
 Hi I'm **Alyannah Marie W. Ong**, a creative and detail-oriented designer with a passion for graphic design, animation and content creation. I enjoy transforming ideas into engaging and meaningful designs while continuously developing my skills through editing, crocheting, and various creative projects. My work reflects both my artistic vision and dedication to producing high-quality results. I am known for being hardworking, reliable, goal-oriented, and compassionate, with a strong commitment to professionalism and continuous growth. My core strengths include creativity, time management, teamwork, and collaboration, which allow me to work effectively both independently and with others. I am particularly interested in content creation, event planning, and fashion and lifestyle.
 
 
+_Tagline:_ "Future Business Professional & Aspiring Corporate Leader"
+
+
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 <!-- PRELIM PROJECTS -->
 ## PRELIM PROJECTS
